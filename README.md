@@ -1,4 +1,3 @@
-# Proyecto-MINI-RADAR
 
 DESCRIPCIÓN DEL PROYECTO:
 Nuestro proyecto consiste en un radar de arduino, que utiliza sensor ultrasónico para la deteccion de objetos cercanos y un motor servo para el movimiento de 180º
